@@ -1,0 +1,7 @@
+{
+  "name": "Next2Dubai AI Concierge",
+  "description": "A premium AI chatbot for Next2Dubai providing multilingual customer support and automated lead generation for real estate and business services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
